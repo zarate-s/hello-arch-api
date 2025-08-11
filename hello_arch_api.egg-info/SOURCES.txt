@@ -1,0 +1,9 @@
+pyproject.toml
+app/__init__.py
+app/main.py
+hello_arch_api.egg-info/PKG-INFO
+hello_arch_api.egg-info/SOURCES.txt
+hello_arch_api.egg-info/dependency_links.txt
+hello_arch_api.egg-info/requires.txt
+hello_arch_api.egg-info/top_level.txt
+tests/test_api.py
